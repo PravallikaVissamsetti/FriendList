@@ -1,0 +1,29 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  display: center;
+}
+.container {
+  border: 1px solid lightgray;
+  max-width: 350px;
+  margin-left: 6px;
+}
+.title {
+  background-color: lightgray;
+  color: black;
+  height: 35px;
+  padding: 8px;
+}
+.icons {
+  font-size: 15px;
+  display: flex;
+  justify-content: space-around;
+  cursor: pointer;
+}
+.pagination a {
+  margin: 4px;
+  padding: 6px;
+  border-radius: 8px;
+  border: 1px solid grey;
+  cursor: pointer;
+}
