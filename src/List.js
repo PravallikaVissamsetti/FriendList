@@ -6,7 +6,7 @@ const List = () => {
       { name: "Rahul Gupta", isFav: true },
       { name: "Shivangi Sharma", isFav: true },
       { name: "Akash Singh", isFav: false },
-      { name: "Ravi", isFav: false }
+      { name: "Pravallika", isFav: false }
     ],
     payload:[{
       name: "",
