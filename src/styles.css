@@ -4,15 +4,15 @@
   display: center;
 }
 .container {
-  border: 1px solid lightgray;
+  border: 1px solid grey;
   max-width: 350px;
-  margin-left: 6px;
+  margin: 20px;
 }
 .title {
-  background-color: grey;
+  background-color: lightgrey;
   color: black;
-  height: 35px;
-  padding: 8px;
+  height: 40px;
+  padding-top: 8px;
 }
 hr {
   margin: 0.5px;
