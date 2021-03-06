@@ -9,10 +9,13 @@
   margin-left: 6px;
 }
 .title {
-  background-color: lightgray;
+  background-color: grey;
   color: black;
   height: 35px;
   padding: 8px;
+}
+hr {
+  margin: 0.5px;
 }
 .icons {
   font-size: 15px;
