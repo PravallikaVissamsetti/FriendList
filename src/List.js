@@ -10,7 +10,7 @@ const List = () => {
     ],
     payload:[{
       name: "",
-    isFav: true
+    isFav: false
     }]
   });
   const [friend, setFriend] = useState([...state.friends]);
